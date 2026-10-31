@@ -45,4 +45,12 @@ a { color: var(--ink); font-weight: 700; }
 .card li { margin: 0 0 8px; }
 .email { font-size: 22px; text-align: center; }
 
+.download {
+  display: block; text-align: center; text-decoration: none;
+  background: var(--sun); border: 3px solid var(--ink); border-radius: 22px;
+  box-shadow: 0 6px 0 var(--ink);
+  padding: 12px 20px; margin: 0 0 24px;
+  font-size: 22px; font-weight: 800;
+}
+
 footer { text-align: center; margin-top: 8px; }
